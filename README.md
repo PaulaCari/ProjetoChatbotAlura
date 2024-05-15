@@ -25,8 +25,8 @@ Lembre-se: a dor da perda é real, mas a força para superá-la reside em cada u
 </table>
 
 <h1>DESEMVOLVIMENTO:⚠️</h1>
-1. CHAT PROMPT: Chat de conversação, também pode interpretar imagem e videos
-![image](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/45f46117-fd2c-497f-8097-cdde338713eb)
+1. CHAT PROMPT: Chat de conversação, também pode interpretar imagem e videos:
+![chat prompt](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/02c759e0-9ffb-49da-9391-de835c3c5ab4)
 
 2. FREEFORM PROMPT: Não tem pregunta nem resposta é uma criação em conjunto, Pouco a pouco se va criando um texto e vou criando um artigo de meu jeito!
 Quais são os vídeos que falam de superar a perda:
@@ -45,18 +45,16 @@ TIPOS DE PERDA:  É importante reconhecer que a perda pode se manifestar de dife
     </tr>
 </table>
 
+<h1> Beneficios **Em cenários de perda, um chatbot poderia: </h1>
+1.*Oferecer informações sobre o processo de luto: Explicar as diferentes fazes de luto, os sentimentos comuns, e dicas para lidar com a dor.
+2.*Fornecer recursos de apoio: Indicar sites, linhas telefônicas, grupos de apoio e professionais de saúde mental.
+3.*Compartilhar histórias inspiradoras: Apresentar relatos de pessoas que passaram por perdas e conseguiram seguir em frente, oferecendo esperança e conforto.
+4.*Oferecer exercícios de mindfulness e relaxamento: Guiar práticas de respiração, meditação e outras técnicas para aliviar o estresse e a ansiedade.
+5.*Criar um espaço seguro para expressar sentimentos: Permitir que a pessoa escreva livremente sobre suas emoções, sem julgamentos, como uma forma de catarse. 
+6.*Ajudar na organização de homenagens: Auxiliar na criação de memoriais online, coletânea de fotos, textos e vídeos para celebrar a memória da pessoa perdida.
 
-**Em cenários de perda, um chatbot poderia:
-*Oferecer informações sobre o processo de luto: Explicar as diferentes fazes de luto, os sentimentos comuns, e dicas para lidar com a dor.
-*Fornecer recursos de apoio: Indicar sites, linhas telefônicas, grupos de apoio e professionais de saúde mental.
-*Compartilhar histórias inspiradoras: Apresentar relatos de pessoas que passaram por perdas e conseguiram seguir em frente, oferecendo esperança e conforto.
-*Oferecer exercícios de mindfulness e relaxamento: Guiar práticas de respiração, meditação e outras técnicas para aliviar o estresse e a ansiedade.
-*Criar um espaço seguro para expressar sentimentos: Permitir que a pessoa escreva livremente sobre suas emoções, sem julgamentos, como uma forma de catarse. 
-* Ajudar na organização de homenagens: Auxiliar na criação de memoriais online, coletânea de fotos, textos e vídeos para celebrar a memória da pessoa perdida.
+![chatbot](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/78570a52-ef0d-4562-b290-7fbdfe716b4c)
 
-um chatbot pode ser usado para oferecer suporte e informações úteis para pessoas que enfrentam perdas e desastres naturais.
-Chatbot para Apoio em Perdas e Desastres Naturais
-Introdução:
 Olá! Sou o [Nome do Chatbot], um chatbot criado para oferecer suporte e informações úteis para pessoas que enfrentam perdas e desastres naturais.
 Compreendendo a Perda:
 A perda de um ente querido ou a experiência de um desastre natural pode ser uma experiência devastadora e repleta de emoções complexas. Entendemos que cada pessoa lida com a dor e o luto de maneira única, e estamos aqui para te oferecer um espaço seguro e acolhedor para que você possa expressar seus sentimentos e buscar apoio.
