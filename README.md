@@ -77,8 +77,5 @@ Estou aqui para te acompanhar nesse processo.
 ![celular](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/8f482928-3f51-4bac-b237-ef40f8f66c1c)
 Conclusão:Chatbot Amigo Virtual em Python oferece suporte emocional e diversas funcionalidades para auxiliar pessoas em momentos de perda.
 
-
-
-
-
+Chatbot de Luto Diferenciado:![diferente](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/0fea14e6-2992-492c-a3dc-a450c3d6e98c)
 
