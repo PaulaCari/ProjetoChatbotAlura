@@ -26,12 +26,55 @@ Lembre-se: a dor da perda é real, mas a força para superá-la reside em cada u
 
 <h1>DESEMVOLVIMENTO:⚠️</h1>
 *CHAT PROMPT: Chat de conversação, também pode interpretar imagem e videos
-![image](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/2e9ee8c4-ec25-4b12-9e4c-ee30565a2a1c)
+![image](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/81c24846-78ff-4f74-80ae-44b9ee04beee)
 
 
 FREEFORM PROMPT: Não tem pregunta nem resposta é uma criação em conjunto, Pouco a pouco se va criando um texto e vou criando um artigo de meu jeito!
 Quais são os vídeos que falam de superar a perda:
 ![image](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/ad44bc43-1def-42e9-9dc4-97ee68899ed8)
+
+RESUMO TIPOS DE PERDA: 
+1. Perda Humana: Morte de entes queridos (familiar, amigo, cônjuge).
+2. Perda de Animais: Morte ou perda por mudança de vida.
+3. Perda de Relacionamentos: Término de namoro, casamento ou amizade.
+4. Perda de Emprego: Despedimento ou renúncia.
+5. Perda de Saúde: Doença crônica ou lesões físicas graves.
+6. Outras Perdas: Perda de bens materiais, perda de sonhos, perda de status social.
+Lembre-se: Cada tipo de perda é única e possui impacto individual.
+
+
+ É importante reconhecer que a perda pode se manifestar de diferentes formas e não se limita a penas á morte.
+Existem diversos tipos de perda que podem causar dor e exigir um processo de luto, cada um com suas particularidades.
+
+**Em cenários de perda, um chatbot poderia:
+*Oferecer informações sobre o processo de luto: Explicar as diferentes fazes de luto, os sentimentos comuns, e dicas para lidar com a dor.
+*Fornecer recursos de apoio: Indicar sites, linhas telefônicas, grupos de apoio e professionais de saúde mental.
+*Compartilhar histórias inspiradoras: Apresentar relatos de pessoas que passaram por perdas e conseguiram seguir em frente, oferecendo esperança e conforto.
+*Oferecer exercícios de mindfulness e relaxamento: Guiar práticas de respiração, meditação e outras técnicas para aliviar o estresse e a ansiedade.
+*Criar um espaço seguro para expressar sentimentos: Permitir que a pessoa escreva livremente sobre suas emoções, sem julgamentos, como uma forma de catarse. 
+* Ajudar na organização de homenagens: Auxiliar na criação de memoriais online, coletânea de fotos, textos e vídeos para celebrar a memória da pessoa perdida.
+
+um chatbot pode ser usado para oferecer suporte e informações úteis para pessoas que enfrentam perdas e desastres naturais.
+Chatbot para Apoio em Perdas e Desastres Naturais
+Introdução:
+Olá! Sou o [Nome do Chatbot], um chatbot criado para oferecer suporte e informações úteis para pessoas que enfrentam perdas e desastres naturais.
+Compreendendo a Perda:
+A perda de um ente querido ou a experiência de um desastre natural pode ser uma experiência devastadora e repleta de emoções complexas. Entendemos que cada pessoa lida com a dor e o luto de maneira única, e estamos aqui para te oferecer um espaço seguro e acolhedor para que você possa expressar seus sentimentos e buscar apoio.
+O que Posso Fazer por Você:
+•	Informações sobre o Luto: Posso te explicar as diferentes fases do luto, os sentimentos comuns que você pode sentir e dicas para lidar com a dor de forma saudável.
+•	Recursos de Apoio: Posso te indicar sites, linhas telefônicas, grupos de apoio e profissionais de saúde mental que podem te ajudar nesse momento.
+•	Histórias Inspiradoras: Posso te apresentar relatos de pessoas que superaram perdas e desastres naturais, oferecendo esperança e conforto.
+•	Exercícios de Relaxamento: Posso te guiar em práticas de respiração, meditação e outras técnicas para aliviar o estresse e a ansiedade.
+•	Espaço para Expressar Sentimentos: Posso te criar um espaço seguro para que você escreva livremente sobre suas emoções, sem julgamentos, como uma forma de catarse.
+•	Organização de Homenagens: Posso te auxiliar na criação de memoriais online, coletânea de fotos, textos e vídeos para celebrar a memória da pessoa perdida.
+Como Posso Te Ajudar?
+Basta me contar o que você está passando e como posso te ajudar. Posso te oferecer informações, recursos, exercícios ou simplesmente te ouvir e te oferecer um espaço para desabafar.
+Lembre-se:
+•	Você não está sozinho(a) nessa jornada.
+•	O luto é um processo natural e individualizado.
+•	Existem pessoas que se importam com você e querem te ajudar.
+•	Com o tempo e o apoio necessário, você conseguirá superar essa fase difícil.
+Estou aqui para te acompanhar nesse processo.
 
 
 
