@@ -53,6 +53,8 @@ TIPOS DE PERDA:  É importante reconhecer que a perda pode se manifestar de dife
 5.*Criar um espaço seguro para expressar sentimentos: Permitir que a pessoa escreva livremente sobre suas emoções, sem julgamentos, como uma forma de catarse. 
 6.*Ajudar na organização de homenagens: Auxiliar na criação de memoriais online, coletânea de fotos, textos e vídeos para celebrar a memória da pessoa perdida.
 
+<h1>CHATBOT</h1>
+
 ![chatbot](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/78570a52-ef0d-4562-b290-7fbdfe716b4c)
 
 Olá! Sou o [Amigo virtual], um chatbot criado para oferecer suporte e informações úteis para pessoas que enfrentam perdas de qualquer tipo...
@@ -75,7 +77,9 @@ Lembre-se:
 Estou aqui para te acompanhar nesse processo.
 
 ![celular](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/8f482928-3f51-4bac-b237-ef40f8f66c1c)
-Conclusão:Chatbot Amigo Virtual em Python oferece suporte emocional e diversas funcionalidades para auxiliar pessoas em momentos de perda.
 
-Chatbot de Luto Diferenciado:![diferente](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/0fea14e6-2992-492c-a3dc-a450c3d6e98c)
+conclusões: Amigo Virtual em Python oferece suporte emocional e diversas funcionalidades para auxiliar pessoas em momentos de perda.
+
+Chatbot de Luto Diferenciado
+![diferente](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/0fea14e6-2992-492c-a3dc-a450c3d6e98c)
 
