@@ -55,16 +55,16 @@ TIPOS DE PERDA:  É importante reconhecer que a perda pode se manifestar de dife
 
 ![chatbot](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/78570a52-ef0d-4562-b290-7fbdfe716b4c)
 
-Olá! Sou o [Nome do Chatbot], um chatbot criado para oferecer suporte e informações úteis para pessoas que enfrentam perdas e desastres naturais.
+Olá! Sou o [Amigo virtual], um chatbot criado para oferecer suporte e informações úteis para pessoas que enfrentam perdas de qualquer tipo...
 Compreendendo a Perda:
 A perda de um ente querido ou a experiência de um desastre natural pode ser uma experiência devastadora e repleta de emoções complexas. Entendemos que cada pessoa lida com a dor e o luto de maneira única, e estamos aqui para te oferecer um espaço seguro e acolhedor para que você possa expressar seus sentimentos e buscar apoio.
 O que Posso Fazer por Você:
 •	Informações sobre o Luto: Posso te explicar as diferentes fases do luto, os sentimentos comuns que você pode sentir e dicas para lidar com a dor de forma saudável.
-•	Recursos de Apoio: Posso te indicar sites, linhas telefônicas, grupos de apoio e profissionais de saúde mental que podem te ajudar nesse momento.
 •	Histórias Inspiradoras: Posso te apresentar relatos de pessoas que superaram perdas e desastres naturais, oferecendo esperança e conforto.
 •	Exercícios de Relaxamento: Posso te guiar em práticas de respiração, meditação e outras técnicas para aliviar o estresse e a ansiedade.
 •	Espaço para Expressar Sentimentos: Posso te criar um espaço seguro para que você escreva livremente sobre suas emoções, sem julgamentos, como uma forma de catarse.
 •	Organização de Homenagens: Posso te auxiliar na criação de memoriais online, coletânea de fotos, textos e vídeos para celebrar a memória da pessoa perdida.
+<h1>Recursos de Apoio: Posso te indicar sites, linhas telefônicas, grupos de apoio e profissionais de saúde mental que podem te ajudar nesse momento.</h1>
 Como Posso Te Ajudar?
 Basta me contar o que você está passando e como posso te ajudar. Posso te oferecer informações, recursos, exercícios ou simplesmente te ouvir e te oferecer um espaço para desabafar.
 Lembre-se:
