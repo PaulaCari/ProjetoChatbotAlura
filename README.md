@@ -28,12 +28,11 @@ Lembre-se: a dor da perda é real, mas a força para superá-la reside em cada u
 1. CHAT PROMPT: Chat de conversação, também pode interpretar imagem e videos
 ![image](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/81c24846-78ff-4f74-80ae-44b9ee04beee)
 
-
 2. FREEFORM PROMPT: Não tem pregunta nem resposta é uma criação em conjunto, Pouco a pouco se va criando um texto e vou criando um artigo de meu jeito!
 Quais são os vídeos que falam de superar a perda:
 ![image](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/ad44bc43-1def-42e9-9dc4-97ee68899ed8)
 
-TIPOS DE PERDA: 
+TIPOS DE PERDA:  É importante reconhecer que a perda pode se manifestar de diferentes formas e não se limita a penas á morte.
 <table>
   <tr>
 <td>1. Perda Humana: Morte de entes queridos (familiar, amigo, cônjuge).</td>
@@ -46,8 +45,6 @@ TIPOS DE PERDA:
     </tr>
 </table>
 
- É importante reconhecer que a perda pode se manifestar de diferentes formas e não se limita a penas á morte.
-Existem diversos tipos de perda que podem causar dor e exigir um processo de luto, cada um com suas particularidades.
 
 **Em cenários de perda, um chatbot poderia:
 *Oferecer informações sobre o processo de luto: Explicar as diferentes fazes de luto, os sentimentos comuns, e dicas para lidar com a dor.
