@@ -27,3 +27,12 @@ Lembre-se: a dor da perda é real, mas a força para superá-la reside em cada u
 <h1>DESEMVOLVIMENTO:⚠️</h1>
 *CHAT PROMPT: Chat de conversação, também pode interpretar imagem e videos
 ![image](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/2e9ee8c4-ec25-4b12-9e4c-ee30565a2a1c)
+
+
+FREEFORM PROMPT: Não tem pregunta nem resposta é uma criação em conjunto, Pouco a pouco se va criando um texto e vou criando um artigo de meu jeito!
+Quais são os vídeos que falam de superar a perda:
+![image](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/ad44bc43-1def-42e9-9dc4-97ee68899ed8)
+
+
+
+
