@@ -24,7 +24,7 @@ Lembre-se: a dor da perda é real, mas a força para superá-la reside em cada u
   </tr>
 </table>
 
-<h1>DESEMVOLVIMENTO:⚠️</h1>
+<h1>STATUS DESEMVOLVIMENTO:⚠️</h1>
 1. CHAT PROMPT: Chat de conversação, também pode interpretar imagem e videos:
 ![chat prompt](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/02c759e0-9ffb-49da-9391-de835c3c5ab4)
 
