@@ -25,23 +25,26 @@ Lembre-se: a dor da perda é real, mas a força para superá-la reside em cada u
 </table>
 
 <h1>DESEMVOLVIMENTO:⚠️</h1>
-*CHAT PROMPT: Chat de conversação, também pode interpretar imagem e videos
+1. CHAT PROMPT: Chat de conversação, também pode interpretar imagem e videos
 ![image](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/81c24846-78ff-4f74-80ae-44b9ee04beee)
 
 
-FREEFORM PROMPT: Não tem pregunta nem resposta é uma criação em conjunto, Pouco a pouco se va criando um texto e vou criando um artigo de meu jeito!
+2. FREEFORM PROMPT: Não tem pregunta nem resposta é uma criação em conjunto, Pouco a pouco se va criando um texto e vou criando um artigo de meu jeito!
 Quais são os vídeos que falam de superar a perda:
 ![image](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/ad44bc43-1def-42e9-9dc4-97ee68899ed8)
 
-RESUMO TIPOS DE PERDA: 
-1. Perda Humana: Morte de entes queridos (familiar, amigo, cônjuge).
-2. Perda de Animais: Morte ou perda por mudança de vida.
-3. Perda de Relacionamentos: Término de namoro, casamento ou amizade.
-4. Perda de Emprego: Despedimento ou renúncia.
-5. Perda de Saúde: Doença crônica ou lesões físicas graves.
-6. Outras Perdas: Perda de bens materiais, perda de sonhos, perda de status social.
-Lembre-se: Cada tipo de perda é única e possui impacto individual.
-
+TIPOS DE PERDA: 
+<table>
+  <tr>
+<td>1. Perda Humana: Morte de entes queridos (familiar, amigo, cônjuge).</td>
+<td>2. Perda de Animais: Morte ou perda por mudança de vida.</td>
+<td>3. Perda de Relacionamentos: Término de namoro, casamento ou amizade.</td>
+<td>4. Perda de Emprego: Despedimento ou renúncia.</td>
+<td>5. Perda de Saúde: Doença crônica ou lesões físicas graves.</td>
+<td>6. Outras Perdas: Perda de bens materiais, perda de sonhos, perda de status social.</td>
+<td>Lembre-se: Cada tipo de perda é única e possui impacto individual.</td>
+    </tr>
+</table>
 
  É importante reconhecer que a perda pode se manifestar de diferentes formas e não se limita a penas á morte.
 Existem diversos tipos de perda que podem causar dor e exigir um processo de luto, cada um com suas particularidades.
