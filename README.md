@@ -66,13 +66,17 @@ O que Posso Fazer por Você:
 •	Organização de Homenagens: Posso te auxiliar na criação de memoriais online, coletânea de fotos, textos e vídeos para celebrar a memória da pessoa perdida.
 <h1>Recursos de Apoio: Posso te indicar sites, linhas telefônicas, grupos de apoio e profissionais de saúde mental que podem te ajudar nesse momento.</h1>
 Como Posso Te Ajudar?
-Basta me contar o que você está passando e como posso te ajudar. Posso te oferecer informações, recursos, exercícios ou simplesmente te ouvir e te oferecer um espaço para desabafar.
+Basta me contar o que você está passando. Posso te oferecer informações, recursos, exercícios ou simplesmente te ouvir e te oferecer um espaço para desabafar.
 Lembre-se:
+
+![celular](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/8f482928-3f51-4bac-b237-ef40f8f66c1c)
+Conclusão:Chatbot Amigo Virtual em Python oferece suporte emocional e diversas funcionalidades para auxiliar pessoas em momentos de perda.
 •	Você não está sozinho(a) nessa jornada.
 •	O luto é um processo natural e individualizado.
 •	Existem pessoas que se importam com você e querem te ajudar.
 •	Com o tempo e o apoio necessário, você conseguirá superar essa fase difícil.
 Estou aqui para te acompanhar nesse processo.
+
 
 
 
