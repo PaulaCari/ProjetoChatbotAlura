@@ -1,7 +1,7 @@
 ![ezgif com-animated-gif-maker](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/516251cc-2003-4a35-9e2e-b480c01031e1)
 
-<h1>Projeto entrega  desafio na inmersão IA </h1>
-Chatbot para Apoio em Perdas e Desastres Naturais
+Projeto entrega  desafio  ![alura](https://github.com/PaulaCari/ProjetoChatbotAlura/assets/166225580/c47891f7-0f67-40f8-8f41-07254a95fbe5) 
+<h1>Chatbot para Apoio em Perdas e Desastres Naturais</h1>
 
 <h1>INTRODUÇÃO</h1>
 Perda: Uma Dor em Duas Fronteiras
